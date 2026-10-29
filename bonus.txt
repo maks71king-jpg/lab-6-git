@@ -1,0 +1,5 @@
+git add .
+git commit -m "Первый коммит в name2"
+# (снова измените файл, сохраните)
+git add .
+git commit -m "Второй коммит в name2"
